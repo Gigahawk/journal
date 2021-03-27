@@ -1,7 +1,7 @@
 ---
 created: 2021-03-16T01:32:55-07:00
 type: Checklist
-modified: 2021-03-22T15:39:44-07:00
+modified: 2021-03-26T18:56:51-07:00
 ---
 
 # Purchasing list
@@ -13,3 +13,4 @@ modified: 2021-03-22T15:39:44-07:00
 - [ ] Zealios zilents
 - [ ] Durock stabs?
 - [ ] Mad Max on GOG
+- [ ] Goo gone
