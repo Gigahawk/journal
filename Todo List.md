@@ -1,6 +1,6 @@
 ---
 created: 2021-03-16T01:38:54-07:00
-modified: 2021-03-26T16:35:17-07:00
+modified: 2021-03-26T18:58:28-07:00
 type: Checklist
 ---
 
@@ -11,3 +11,4 @@ type: Checklist
 - [ ] Create pi zero footprint
 - [ ] Watch Hamilton
 - [ ] Recharge screwdriver
+- [ ] Store ski serial numbers
