@@ -12,3 +12,5 @@ type: Checklist
 - [ ] Watch Hamilton
 - [ ] Recharge screwdriver
 - [ ] Store ski serial numbers
+- [ ] Swap goggle plates
+- [ ] Print dashcam sticker 'Replace by Apr 2023'
