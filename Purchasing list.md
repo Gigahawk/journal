@@ -1,13 +1,14 @@
 ---
 created: 2021-03-16T01:32:55-07:00
 type: Checklist
-modified: 2021-03-28T15:09:16-07:00
+modified: 2021-04-04T14:45:40-07:00
 ---
 
 # Purchasing list
 
 - [ ] Zealios zilents
 - [ ] Durock stabs?
+- [ ] Brush
 - [x] Anti fog
 - [x] Goo gone
 - [x] Quartet components
