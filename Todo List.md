@@ -1,6 +1,6 @@
 ---
 created: 2021-03-16T01:38:54-07:00
-modified: 2021-04-05T22:59:21-07:00
+modified: 2021-04-09T15:18:37-07:00
 type: Checklist
 ---
 
@@ -14,5 +14,6 @@ type: Checklist
 - [ ] Store ski serial numbers
 - [ ] Print dashcam sticker 'Replace by Apr 2023'
 - [ ] Look into elec 442
+- [ ] Replace screen protector
 - [x] Recharge screwdriver
 - [x] Swap goggle plates
