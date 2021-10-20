@@ -1,6 +1,6 @@
 ---
 created: 2021-03-16T01:38:54-07:00
-modified: 2021-10-13T21:51:56-07:00
+modified: 2021-10-20T13:26:41-07:00
 type: Checklist
 ---
 
@@ -12,7 +12,7 @@ type: Checklist
 - [ ] Watch Hamilton
 - [ ] Store ski serial numbers
 - [ ] Replace screen protector
-- [ ] Look into elec 442
+- [x] Look into elec 442
 - [x] Create pi zero footprint
 - [x] Test STP240320_0200B with fbcp-ili9341
 - [x] Recharge screwdriver
