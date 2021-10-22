@@ -1,11 +1,12 @@
 ---
 created: 2021-03-16T01:38:54-07:00
-modified: 2021-10-20T13:26:41-07:00
+modified: 2021-10-21T22:53:19-07:00
 type: Checklist
 ---
 
 # Todo List
 
+- [ ] Push 423 lab exam details
 - [ ] Hand in makerspace safety form to CEME 2054
 - [ ] Email Rusty Hut safety form to TA
 - [ ] Play zzazzglitch April fools
