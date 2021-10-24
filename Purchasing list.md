@@ -1,14 +1,14 @@
 ---
 created: 2021-03-16T01:32:55-07:00
 type: Checklist
-modified: 2021-10-20T13:24:42-07:00
+modified: 2021-10-23T18:27:29-07:00
 ---
 
 # Purchasing list
 
-- [ ] Hygrometer with tracking
 - [ ] Wristguards
 - [x] Usb micro cables
+- [x] Hygrometer with tracking
 - [x] Zealios zilents
 - [x] Brush
 - [x] Anti fog
