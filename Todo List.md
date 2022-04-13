@@ -1,18 +1,18 @@
 ---
 created: 2021-03-16T01:38:54-07:00
-modified: 2021-10-22T11:46:08-07:00
+modified: 2022-04-13T02:23:51-07:00
 type: Checklist
 ---
 
 # Todo List
 
-- [ ] Hand in makerspace safety form to CEME 2054
-- [ ] Email Rusty Hut safety form to TA
 - [ ] Play zzazzglitch April fools
 - [ ] Watch Hamilton
 - [ ] Store ski serial numbers
-- [ ] Replace screen protector
+- [x] Replace screen protector
+- [x] Hand in makerspace safety form to CEME 2054
 - [x] Look into elec 442
+- [x] Email Rusty Hut safety form to TA
 - [x] Push 423 lab exam details
 - [x] Create pi zero footprint
 - [x] Test STP240320_0200B with fbcp-ili9341
