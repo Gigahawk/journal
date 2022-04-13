@@ -1,7 +1,7 @@
 ---
 created: 2021-03-16T01:32:55-07:00
 type: Checklist
-modified: 2022-04-13T02:24:55-07:00
+modified: 2022-04-13T02:40:02-07:00
 ---
 
 # Purchasing list
@@ -9,6 +9,7 @@ modified: 2022-04-13T02:24:55-07:00
 - [ ] Wristguards
 - [ ] Sponges
 - [ ] Cooking oil
+- [ ] Razor blades
 - [x] Usb micro cables
 - [x] Hygrometer with tracking
 - [x] Zealios zilents
