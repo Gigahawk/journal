@@ -1,7 +1,7 @@
 ---
 created: 2021-03-16T01:32:55-07:00
 type: Checklist
-modified: 2022-04-18T22:07:52-07:00
+modified: 2022-04-18T22:08:46-07:00
 ---
 
 # Purchasing list
@@ -9,6 +9,7 @@ modified: 2022-04-18T22:07:52-07:00
 - [ ] Wristguards
 - [ ] Sponges
 - [ ] Flashlight (Wurkkos HD15)
+- [ ] Razor blades
 - [ ] Handwash timers?
 - [x] Cooking oil
 - [x] Usb micro cables
