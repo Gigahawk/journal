@@ -1,7 +1,7 @@
 ---
 created: 2021-03-16T01:32:55-07:00
 type: Checklist
-modified: 2022-05-14T12:24:08-07:00
+modified: 2022-05-25T17:30:24-07:00
 ---
 
 # Purchasing list
@@ -9,7 +9,7 @@ modified: 2022-05-14T12:24:08-07:00
 - [ ] Wristguards
 - [ ] Nail file
 - [ ] JLCPCB 3d printed trezor case
-- [ ] DS/GBA usb C boards
+- [x] DS/GBA usb C boards
 - [ ] Handwash timers?
 - [x] Razor blades
 - [x] Scotch tape
