@@ -1,6 +1,6 @@
 ---
 created: 2022-04-25T01:43:53-07:00
-modified: 2022-04-25T01:45:00-07:00
+modified: 2022-06-02T21:03:37-07:00
 ---
 
 # Game Settings
@@ -10,3 +10,7 @@ modified: 2022-04-25T01:45:00-07:00
 
 # Overwatch
 Sensitivity 2.0
+
+# Minecraft
+Sensitivity 40%
+FOV 100
