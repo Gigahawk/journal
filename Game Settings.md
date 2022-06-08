@@ -1,6 +1,6 @@
 ---
 created: 2022-04-25T01:43:53-07:00
-modified: 2022-06-08T00:26:24-07:00
+modified: 2022-06-08T00:33:31-07:00
 ---
 
 # Game Settings
@@ -16,3 +16,4 @@ Sensitivity 40%
 FOV 100
 
 Home 692 / 0 / -2245
+Village 894 / 65 / -1872
