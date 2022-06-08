@@ -1,6 +1,6 @@
 ---
 created: 2022-04-25T01:43:53-07:00
-modified: 2022-06-08T00:46:20-07:00
+modified: 2022-06-08T00:51:58-07:00
 ---
 
 # Game Settings
@@ -18,3 +18,4 @@ FOV 100
 Home 692 / 0 / -2245
 Village 894 / 65 / -1872
 Vince's house? 392 / 63 / -1569
+Lighthouse/iron farm 223 / 63 / -1544
