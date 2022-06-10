@@ -1,6 +1,6 @@
 ---
 created: 2022-04-25T01:43:53-07:00
-modified: 2022-06-08T01:03:21-07:00
+modified: 2022-06-09T20:52:15-07:00
 ---
 
 # Game Settings
@@ -21,3 +21,4 @@ Vince's house? 392 / 63 / -1569
 Lighthouse/iron farm 223 / 63 / -1544
 Village 106 / 121 / -1275
 Skele farm 727 / 88 / -1381
+Frozen peaks biome -393 / 107 / -3127
