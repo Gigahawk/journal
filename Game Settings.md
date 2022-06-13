@@ -1,6 +1,6 @@
 ---
 created: 2022-04-25T01:43:53-07:00
-modified: 2022-06-13T15:49:56-07:00
+modified: 2022-06-13T16:12:29-07:00
 ---
 
 # Game Settings
@@ -29,3 +29,4 @@ Swamp village 317 / 74 / 4164
 Swamp biome 2909 / 64 / -6438
 Witch Hut 3334 / 64 / -6288
 Nether fortress (N) 166 / 66 / -287
+Spawn -5 / 70 /  6
