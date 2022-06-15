@@ -1,6 +1,6 @@
 ---
 created: 2022-04-25T01:43:53-07:00
-modified: 2022-06-13T16:43:31-07:00
+modified: 2022-06-15T15:41:56-07:00
 ---
 
 # Game Settings
@@ -31,3 +31,5 @@ Witch Hut 3334 / 64 / -6288
 Nether fortress (N) 166 / 66 / -287
 Spawn -5 / 70 /  6
 Spawn portal 64 / 88 / -246
+Spider spawner 3423 / -46 / -6372
+Zombie spawner 3445 -47 / -6579
