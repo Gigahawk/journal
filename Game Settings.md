@@ -1,6 +1,6 @@
 ---
 created: 2022-04-25T01:43:53-07:00
-modified: 2022-06-15T15:41:56-07:00
+modified: 2022-06-20T00:36:18-07:00
 ---
 
 # Game Settings
@@ -24,6 +24,7 @@ Skele farm 727 / 88 / -1381
 Frozen peaks biome -393 / 107 / -3127
 Village -795 / 63 / -3185
 Water temple -1250 / 62 / -2381
+Water temple -133 / 63 / -2215
 Swamp biome 257 / 62 -401
 Swamp village 317 / 74 / 4164
 Swamp biome 2909 / 64 / -6438
