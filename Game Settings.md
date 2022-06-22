@@ -1,6 +1,6 @@
 ---
 created: 2022-04-25T01:43:53-07:00
-modified: 2022-06-20T00:36:18-07:00
+modified: 2022-06-22T01:46:55-07:00
 ---
 
 # Game Settings
@@ -33,4 +33,5 @@ Nether fortress (N) 166 / 66 / -287
 Spawn -5 / 70 /  6
 Spawn portal 64 / 88 / -246
 Spider spawner 3423 / -46 / -6372
-Zombie spawner 3445 -47 / -6579
+Zombie spawner 3445 / -47 / -6579
+Tower farm 476 / 60 / -2307
