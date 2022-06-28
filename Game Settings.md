@@ -1,6 +1,6 @@
 ---
 created: 2022-04-25T01:43:53-07:00
-modified: 2022-06-28T02:48:23-07:00
+modified: 2022-06-28T03:19:10-07:00
 ---
 
 # Game Settings
@@ -26,7 +26,7 @@ Village -795 / 63 / -3185
 Water temple -1250 / 62 / -2381
 Water temple -133 / 63 / -2215
 Swamp biome 257 / 62 -401
-Swamp village 317 / 74 / 4164
+Swamp village 317 / 74 / -4164
 Swamp biome 2909 / 64 / -6438
 Witch Hut 3334 / 64 / -6288
 Nether fortress (N) 166 / 66 / -287
