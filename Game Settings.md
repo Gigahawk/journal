@@ -1,6 +1,6 @@
 ---
 created: 2022-04-25T01:43:53-07:00
-modified: 2022-06-27T17:49:56-07:00
+modified: 2022-06-28T01:29:12-07:00
 ---
 
 # Game Settings
@@ -39,3 +39,4 @@ Tower farm 476 / 60 / -2307
 Blaze farm 225 / 73 / -360
 Nether roof access 798 / 140 / -769
 Skele spawner 886 / -37 / -2279
+Ice village -3005 / 70 / -1490
