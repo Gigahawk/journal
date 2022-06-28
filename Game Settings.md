@@ -1,6 +1,6 @@
 ---
 created: 2022-04-25T01:43:53-07:00
-modified: 2022-06-28T01:52:51-07:00
+modified: 2022-06-28T02:09:01-07:00
 ---
 
 # Game Settings
@@ -43,3 +43,4 @@ Ice village -3005 / 70 / -1490
 Icebergs -3402 / 63 / -1513
 Pillager outpost -2393 / 87 / -2440
 Village near outpost -2666 / 80 / -2449
+Pillager outpost -1334 / 65 /  -4328
