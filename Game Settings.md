@@ -1,6 +1,6 @@
 ---
 created: 2022-04-25T01:43:53-07:00
-modified: 2022-06-28T01:50:57-07:00
+modified: 2022-06-28T01:52:51-07:00
 ---
 
 # Game Settings
@@ -42,3 +42,4 @@ Skele spawner 886 / -37 / -2279
 Ice village -3005 / 70 / -1490
 Icebergs -3402 / 63 / -1513
 Pillager outpost -2393 / 87 / -2440
+Village near outpost -2666 / 80 / -2449
