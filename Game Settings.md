@@ -1,6 +1,6 @@
 ---
 created: 2022-04-25T01:43:53-07:00
-modified: 2022-06-28T02:21:35-07:00
+modified: 2022-06-28T02:27:35-07:00
 ---
 
 # Game Settings
@@ -46,3 +46,4 @@ Village near outpost -2666 / 80 / -2449
 Pillager outpost -1334 / 65 /  -4328
 Small swamp -1204 / 76 / -4815
 Desert -1310 / 63 / -5638
+Desert pillager outpost -934 / 64 / -6567
