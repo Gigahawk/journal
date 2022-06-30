@@ -1,6 +1,6 @@
 ---
 created: 2022-06-30T02:28:16-07:00
-modified: 2022-06-30T12:07:18-07:00
+modified: 2022-06-30T12:14:46-07:00
 type: Checklist
 ---
 
@@ -16,7 +16,7 @@ type: Checklist
 - [x] Speaker
 - [x] Qtips
 - [x] Polysporin
-- [ ] Day pack
+- [x] Day pack
 - [ ] Frisbee
 - [x] Tent
 - [x] Toothbrush
