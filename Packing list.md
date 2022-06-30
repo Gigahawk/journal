@@ -1,6 +1,6 @@
 ---
 created: 2022-06-30T02:28:16-07:00
-modified: 2022-06-30T03:01:06-07:00
+modified: 2022-06-30T03:04:04-07:00
 type: Checklist
 ---
 
@@ -13,3 +13,5 @@ type: Checklist
 - [ ] Watch
 - [ ] Flashlight
 - [ ] Speaker
+- [ ] Qtips
+- [ ] Polysporin
