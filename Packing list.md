@@ -1,6 +1,6 @@
 ---
 created: 2022-06-30T02:28:16-07:00
-modified: 2022-06-30T03:11:42-07:00
+modified: 2022-06-30T03:20:21-07:00
 type: Checklist
 ---
 
@@ -17,3 +17,4 @@ type: Checklist
 - [ ] Polysporin
 - [ ] Day pack
 - [ ] Frisbee
+- [ ] Tent
