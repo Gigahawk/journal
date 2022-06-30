@@ -1,6 +1,6 @@
 ---
 created: 2022-06-30T02:28:16-07:00
-modified: 2022-06-30T03:11:36-07:00
+modified: 2022-06-30T03:11:42-07:00
 type: Checklist
 ---
 
@@ -16,3 +16,4 @@ type: Checklist
 - [ ] Qtips
 - [ ] Polysporin
 - [ ] Day pack
+- [ ] Frisbee
