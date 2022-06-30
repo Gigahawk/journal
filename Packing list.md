@@ -1,6 +1,6 @@
 ---
 created: 2022-06-30T02:28:16-07:00
-modified: 2022-06-30T03:52:46-07:00
+modified: 2022-06-30T09:26:32-07:00
 type: Checklist
 ---
 
@@ -19,3 +19,4 @@ type: Checklist
 - [ ] Day pack
 - [ ] Frisbee
 - [ ] Tent
+- [ ] Toothbrush
