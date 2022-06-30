@@ -1,13 +1,13 @@
 ---
 created: 2022-06-30T02:28:16-07:00
-modified: 2022-06-30T09:26:32-07:00
+modified: 2022-06-30T10:16:26-07:00
 type: Checklist
 ---
 
 # Packing list
 
-- [ ] Flip flops
-- [ ] Sunscreen 
+- [x] Flip flops
+- [x] Sunscreen 
 - [ ] Laptop charger
 - [ ] 5 port charger
 - [ ] Watch
@@ -18,5 +18,5 @@ type: Checklist
 - [ ] Polysporin
 - [ ] Day pack
 - [ ] Frisbee
-- [ ] Tent
+- [x] Tent
 - [ ] Toothbrush
