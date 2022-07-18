@@ -1,17 +1,17 @@
 ---
 created: 2021-03-16T01:32:55-07:00
 type: Checklist
-modified: 2022-05-25T17:30:52-07:00
+modified: 2022-07-18T16:10:12-07:00
 ---
 
 # Purchasing list
 
-- [ ] Wristguards
 - [ ] Nail file
 - [ ] Spray bottles
 - [ ] Bigger pot for sous vide
 - [ ] JLCPCB 3d printed trezor case
 - [ ] Handwash timers?
+- [x] Wristguards
 - [x] DS/GBA usb C boards
 - [x] Razor blades
 - [x] Scotch tape
