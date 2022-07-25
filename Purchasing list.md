@@ -1,13 +1,13 @@
 ---
 created: 2021-03-16T01:32:55-07:00
 type: Checklist
-modified: 2022-07-18T16:10:39-07:00
+modified: 2022-07-25T02:53:28-07:00
 ---
 
 # Purchasing list
 
-- [ ] Nail file
-- [ ] Bigger pot for sous vide
+- [x] Nail file
+- [x] Bigger pot for sous vide
 - [ ] JLCPCB 3d printed trezor case
 - [ ] Handwash timers?
 - [x] Spray bottles
