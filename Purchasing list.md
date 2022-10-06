@@ -1,12 +1,13 @@
 ---
 created: 2021-03-16T01:32:55-07:00
 type: Checklist
-modified: 2022-10-05T19:58:11-07:00
+modified: 2022-10-05T20:17:12-07:00
 ---
 
 # Purchasing list
 
 - [ ] JLCPCB 3d printed trezor case
+- [ ] EEVBlog 121GW multimeter (comes with leads)
 - [x] Nail file
 - [x] Bigger pot for sous vide
 - [x] Spray bottles
