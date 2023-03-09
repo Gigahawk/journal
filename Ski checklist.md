@@ -1,6 +1,6 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2023-03-09T12:33:47-08:00
+modified: 2023-03-09T12:39:14-08:00
 type: Checklist
 ---
 
@@ -18,5 +18,5 @@ type: Checklist
 - [x] Wristguards
 - [x] Gloves
 - [x] Ski mask
-- [ ] Beanie
-- [ ] Headphones
+- [x] Beanie
+- [x] Headphones
