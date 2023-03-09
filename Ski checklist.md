@@ -1,13 +1,13 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2023-03-09T12:39:14-08:00
+modified: 2023-03-09T13:05:40-08:00
 type: Checklist
 ---
 
 # Ski checklist
 
-- [ ] Boots
-- [ ] Skis/Board
+- [x] Boots
+- [x] Skis/Board
 - [x] Socks
 - [x] Pants
 - [ ] Battery bank
@@ -20,3 +20,4 @@ type: Checklist
 - [x] Ski mask
 - [x] Beanie
 - [x] Headphones
+- [x] Helmet/goggles
