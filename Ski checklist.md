@@ -1,6 +1,6 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2023-03-09T13:05:40-08:00
+modified: 2023-03-09T14:13:14-08:00
 type: Checklist
 ---
 
@@ -17,6 +17,7 @@ type: Checklist
 - [ ] Water bottle
 - [x] Wristguards
 - [x] Gloves
+- [ ] Watch
 - [x] Ski mask
 - [x] Beanie
 - [x] Headphones
