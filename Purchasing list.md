@@ -1,11 +1,12 @@
 ---
 created: 2021-03-16T01:32:55-07:00
 type: Checklist
-modified: 2022-10-05T20:17:12-07:00
+modified: 2023-03-28T01:28:50-07:00
 ---
 
 # Purchasing list
 
+- [ ] Long usb c cable https://www.aliexpress.com/item/32421088643.html
 - [ ] JLCPCB 3d printed trezor case
 - [ ] EEVBlog 121GW multimeter (comes with leads)
 - [x] Nail file
