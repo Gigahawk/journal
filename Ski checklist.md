@@ -1,6 +1,6 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2023-04-05T09:13:57-07:00
+modified: 2023-04-05T10:11:01-07:00
 type: Checklist
 ---
 
@@ -8,7 +8,7 @@ type: Checklist
 
 - [x] Boots
 - [x] Skis/Board
-- [ ] Socks
+- [x] Socks
 - [x] Pants
 - [x] Battery bank
 - [ ] Underarmour
