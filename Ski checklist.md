@@ -1,6 +1,6 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2023-04-04T19:56:29-07:00
+modified: 2023-04-05T01:52:56-07:00
 type: Checklist
 ---
 
@@ -24,3 +24,4 @@ type: Checklist
 - [ ] Beanie
 - [ ] Headphones
 - [ ] Helmet/goggles
+- [ ] Anti-fog spray
