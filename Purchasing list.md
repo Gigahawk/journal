@@ -1,14 +1,14 @@
 ---
 created: 2021-03-16T01:32:55-07:00
 type: Checklist
-modified: 2023-03-31T12:08:22-07:00
+modified: 2023-11-16T20:04:00-08:00
 ---
 
 # Purchasing list
 
 - [ ] JLCPCB 3d printed trezor case
 - [ ] EEVBlog 121GW multimeter (comes with leads)
-- [ ] Giro Clear Lens https://www.giro.com/p/axis-ella-snow-goggles-replacement-lens/350030000200000001.html
+- [x] Giro Clear Lens https://www.giro.com/p/axis-ella-snow-goggles-replacement-lens/350030000200000001.html
 - [x] Nail file
 - [x] Long usb c cable https://www.aliexpress.com/item/32421088643.html
 - [x] Bigger pot for sous vide
