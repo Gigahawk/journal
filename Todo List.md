@@ -1,6 +1,6 @@
 ---
 created: 2021-03-16T01:38:54-07:00
-modified: 2022-04-13T02:23:51-07:00
+modified: 2023-11-16T20:04:33-08:00
 type: Checklist
 ---
 
@@ -20,3 +20,4 @@ type: Checklist
 - [x] Swap goggle plates
 - [x] Print dashcam sticker 'Replace by Apr 2023'
 - [x] Solder headers on pi zero
+- [ ] Book blood test
