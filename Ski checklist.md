@@ -1,12 +1,12 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2023-04-06T09:37:30-07:00
+modified: 2023-12-19T14:17:08-08:00
 type: Checklist
 ---
 
 # Ski checklist
 
-- [ ] Boots
+- [x] Boots
 - [ ] Skis/Board
 - [ ] Socks
 - [ ] Pants
