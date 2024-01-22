@@ -1,6 +1,6 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2024-01-17T16:14:19-08:00
+modified: 2024-01-22T12:46:04-08:00
 type: Checklist
 ---
 
@@ -13,15 +13,15 @@ type: Checklist
 - [x] Battery bank
 - [x] Underarmour
 - [x] Inner jacket
-- [ ] Outer jacket
+- [x] Outer jacket
 - [x] Water bottle
 - [x] Wristguards
-- [ ] Gloves
-- [ ] Poles
+- [x] Gloves
+- [x] Poles
 - [ ] Pebble Watch
-- [ ] Chubby Buttons
-- [ ] Ski mask
-- [ ] Beanie
-- [ ] Headphones
-- [ ] Helmet/goggles
+- [x] Chubby Buttons
+- [x] Ski mask
+- [x] Beanie
+- [x] Headphones
+- [x] Helmet/goggles
 - [ ] Anti-fog spray
