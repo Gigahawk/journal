@@ -1,6 +1,6 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2024-01-25T01:20:56-08:00
+modified: 2024-01-25T17:58:51-08:00
 type: Checklist
 ---
 
@@ -8,11 +8,11 @@ type: Checklist
 
 - [x] Boots
 - [x] Skis/Board
-- [ ] Socks
+- [x] Socks
 - [x] Pants
 - [ ] Battery bank
 - [x] Underarmour
-- [ ] Inner jacket
+- [x] Inner jacket
 - [x] Outer jacket
 - [x] Water bottle
 - [x] Wristguards
@@ -24,4 +24,5 @@ type: Checklist
 - [x] Beanie
 - [x] Headphones
 - [x] Helmet/goggles
+- [ ] Towel 
 - [ ] Anti-fog spray
