@@ -15,14 +15,14 @@ type: Checklist
 - [x] Inner jacket
 - [x] Outer jacket
 - [x] Water bottle
-- [x] Wristguards
+- [ ] Wristguards
 - [x] Gloves
 - [x] Poles
 - [ ] Pebble Watch
-- [x] Chubby Buttons
+- [ ] Chubby Buttons
 - [x] Ski mask
-- [x] Beanie
-- [x] Headphones
+- [ ] Beanie
+- [ ] Headphones
 - [x] Helmet/goggles
-- [ ] Towel 
+- [x] Towel 
 - [ ] Anti-fog spray
