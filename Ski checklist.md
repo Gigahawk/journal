@@ -7,23 +7,23 @@ type: Checklist
 # Ski checklist
 
 - [x] Boots
-- [ ] Skis/Board
+- [x] Skis/Board
 - [x] Socks
-- [ ] Pants
+- [x] Pants
 - [ ] Battery bank
-- [ ] Underarmour
-- [ ] Inner jacket
-- [ ] Outer jacket
+- [x] Underarmour
+- [x] Inner jacket
+- [x] Outer jacket
 - [ ] Water bottle
 - [x] Wristguards
-- [ ] Gloves
+- [x] Gloves
 - [ ] Poles
 - [ ] Pebble Watch
-- [ ] Chubby Buttons
+- [x] Chubby Buttons
 - [x] Ski mask
-- [ ] Beanie
-- [ ] Headphones
-- [ ] Helmet/goggles
-- [ ] Towel 
+- [x] Beanie
+- [x] Headphones
+- [x] Helmet/goggles
+- [x] Towel 
 - [x] Anti-fog spray
-- [ ] Garbage bags 
+- [x] Garbage bags
