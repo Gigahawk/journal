@@ -1,14 +1,14 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2024-03-10T23:13:35-07:00
+modified: 2024-03-10T23:16:31-07:00
 type: Checklist
 ---
 
 # Ski checklist
 
 - [ ] Boots
-- [ ] Skis/Board
-- [ ] Socks
+- [x] Skis/Board
+- [x] Socks
 - [ ] Pants
 - [ ] Battery bank
 - [ ] Underarmour
