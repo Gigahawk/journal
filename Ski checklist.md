@@ -1,6 +1,6 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2024-03-10T23:43:03-07:00
+modified: 2024-03-10T23:53:15-07:00
 type: Checklist
 ---
 
@@ -25,5 +25,5 @@ type: Checklist
 - [x] Headphones
 - [x] Helmet/goggles
 - [x] Towel 
-- [ ] Anti-fog spray
-- [ ] Garbage bags
+- [x] Anti-fog spray
+- [x] Garbage bags
