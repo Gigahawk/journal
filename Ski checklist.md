@@ -1,6 +1,6 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2024-03-14T00:51:05-07:00
+modified: 2024-03-14T00:52:53-07:00
 type: Checklist
 ---
 
@@ -28,4 +28,4 @@ type: Checklist
 - [x] Anti-fog spray
 - [ ] Garbage bags
 - [x] Spare Boa kit
-- [ ] Pliers to escape dead Boa
+- [x] Pliers to escape dead Boa
