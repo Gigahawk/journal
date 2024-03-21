@@ -1,6 +1,6 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2024-03-14T00:52:53-07:00
+modified: 2024-03-21T01:21:44-07:00
 type: Checklist
 ---
 
@@ -14,18 +14,18 @@ type: Checklist
 - [x] Underarmour
 - [x] Inner jacket
 - [x] Outer jacket
-- [x] Water bottle
+- [ ] Water bottle
 - [x] Wristguards
 - [x] Gloves
 - [ ] Poles
 - [ ] Pebble Watch
-- [x] Chubby Buttons
+- [ ] Chubby Buttons
 - [x] Ski mask
-- [x] Beanie
-- [x] Headphones
+- [ ] Beanie
+- [ ] Headphones
 - [x] Helmet/goggles
 - [x] Towel 
-- [x] Anti-fog spray
+- [ ] Anti-fog spray
 - [ ] Garbage bags
 - [x] Spare Boa kit
 - [x] Pliers to escape dead Boa
