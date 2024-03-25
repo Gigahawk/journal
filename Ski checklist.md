@@ -1,13 +1,13 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2024-03-23T20:22:18-07:00
+modified: 2024-03-24T23:51:12-07:00
 type: Checklist
 ---
 
 # Ski checklist
 
-- [ ] Boots
-- [ ] Skis/Board
+- [x] Boots
+- [x] Skis/Board
 - [x] Socks
 - [ ] Battery bank
 - [x] Underarmour
@@ -16,9 +16,9 @@ type: Checklist
 - [x] Water bottle
 - [x] Wristguards
 - [x] Gloves
-- [ ] Poles
+- [x] Poles
 - [ ] Pebble Watch
-- [ ] Chubby Buttons
+- [x] Chubby Buttons
 - [x] Ski mask
 - [x] Beanie
 - [x] Headphones
