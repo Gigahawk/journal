@@ -1,6 +1,6 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2024-03-24T23:51:12-07:00
+modified: 2024-03-24T23:51:16-07:00
 type: Checklist
 ---
 
@@ -24,7 +24,7 @@ type: Checklist
 - [x] Headphones
 - [x] Helmet/goggles
 - [x] Towel 
-- [ ] Anti-fog spray
+- [x] Anti-fog spray
 - [ ] Garbage bags
 - [x] Spare Boa kit
 - [x] Pliers to escape dead Boa
