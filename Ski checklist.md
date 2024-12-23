@@ -1,6 +1,6 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2024-12-23T02:20:33-08:00
+modified: 2024-12-23T09:53:51-08:00
 type: Checklist
 ---
 
@@ -11,7 +11,7 @@ type: Checklist
 - [x] Socks
 - [x] Ski pants
 - [ ] Underarmour
-- [ ] Inner jacket
+- [x] Inner jacket
 - [x] Outer jacket
 - [ ] Water bottle
 - [x] Wristguards
