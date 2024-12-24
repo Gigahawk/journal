@@ -1,6 +1,6 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2024-12-23T09:53:51-08:00
+modified: 2024-12-23T16:20:42-08:00
 type: Checklist
 ---
 
@@ -28,3 +28,4 @@ type: Checklist
 - [ ] Battery bank
 - [x] Spare Boa kit
 - [ ] Pliers to escape dead Boa
+- [ ] Knee pads
