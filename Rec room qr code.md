@@ -1,9 +1,9 @@
 ---
 created: 2023-04-05T18:28:40-07:00
-modified: 2024-10-25T17:30:59-07:00
+modified: 2025-01-17T17:53:00-08:00
 ---
 
-# Brentwood qr code
+# Brentwood qr codez
 
 https://qrco.de/bcDKbF
 
