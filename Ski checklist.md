@@ -1,6 +1,6 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2025-01-22T14:06:37-08:00
+modified: 2025-01-22T14:08:11-08:00
 type: Checklist
 ---
 
@@ -20,6 +20,7 @@ type: Checklist
 - [ ] Poles
 - [x] Chubby Buttons
 - [ ] Ski mask
+- [ ] Neck warmer
 - [ ] Headphones
 - [x] Helmet/goggles
 - [ ] Towel 
@@ -29,4 +30,3 @@ type: Checklist
 - [ ] Spare Boa kit
 - [ ] Pliers to escape dead Boa
 - [x] Knee pads
-- [ ] Extra socks for discount conda
