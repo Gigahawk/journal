@@ -15,12 +15,12 @@ type: Checklist
 - [x] Outer jacket
 - [x] Water bottle
 - [x] Beanie
-- [ ] Wristguards
+- [x] Wristguards
 - [x] Gloves
 - [ ] Poles
 - [x] Chubby Buttons
-- [ ] Ski mask
-- [ ] Neck warmer
+- [x] Ski mask
+- [x] Neck warmer
 - [ ] Headphones
 - [x] Helmet/goggles
 - [ ] Towel 
