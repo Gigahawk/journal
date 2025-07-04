@@ -1,6 +1,6 @@
 ---
 created: 2025-06-26T14:36:34-07:00
-modified: 2025-06-29T15:05:19-07:00
+modified: 2025-07-03T21:32:31-07:00
 ---
 
 # Toyota mileage
@@ -10,3 +10,9 @@ modified: 2025-06-29T15:05:19-07:00
 Probably 125ish at 3/4 mark
 
 287 km at half tank
+
+432km at 1/4 mark
+
+Refill
+
+0-50km is about full tank to highest mark
