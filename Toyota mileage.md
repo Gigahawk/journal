@@ -1,6 +1,6 @@
 ---
 created: 2025-06-26T14:36:34-07:00
-modified: 2025-07-09T16:00:40-07:00
+modified: 2025-07-14T08:42:04-07:00
 ---
 
 # Toyota mileage
@@ -17,3 +17,4 @@ Refill
 
 0-50km is about full tank to highest mark
 250km at half tank
+388.9 light on
