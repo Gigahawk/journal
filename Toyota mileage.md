@@ -1,6 +1,6 @@
 ---
 created: 2025-06-26T14:36:34-07:00
-modified: 2025-07-14T16:57:13-07:00
+modified: 2025-07-14T17:00:20-07:00
 ---
 
 # Toyota mileage
@@ -19,3 +19,5 @@ Refill
 250km at half tank
 388.9 light on
 390.2 at gas station (light turned off?)
+
+Refill (up to 1.5ticks above half)
