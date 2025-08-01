@@ -1,6 +1,6 @@
 ---
 created: 2025-06-26T14:36:34-07:00
-modified: 2025-07-14T17:00:20-07:00
+modified: 2025-07-31T17:54:12-07:00
 ---
 
 # Toyota mileage
@@ -21,3 +21,7 @@ Refill
 390.2 at gas station (light turned off?)
 
 Refill (up to 1.5ticks above half)
+
+Refill
+
+50.7 to highest mark
