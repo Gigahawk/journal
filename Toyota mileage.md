@@ -1,6 +1,6 @@
 ---
 created: 2025-06-26T14:36:34-07:00
-modified: 2025-07-31T17:54:12-07:00
+modified: 2025-08-11T18:33:26-07:00
 ---
 
 # Toyota mileage
@@ -25,3 +25,5 @@ Refill (up to 1.5ticks above half)
 Refill
 
 50.7 to highest mark
+262.5 to half tank
+431.5 for light to turn on, drove for a little bit and light was gone
