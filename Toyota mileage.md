@@ -1,6 +1,6 @@
 ---
 created: 2025-06-26T14:36:34-07:00
-modified: 2025-08-13T10:54:31-07:00
+modified: 2025-08-16T12:29:41-07:00
 ---
 
 # Toyota mileage
@@ -31,3 +31,5 @@ Refill
 Refill
 
 About 50 to highest mark? Indicator went back up after reaching it at 39.2
+
+295 to half tank
