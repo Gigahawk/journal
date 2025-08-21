@@ -1,6 +1,6 @@
 ---
 created: 2025-06-26T14:36:34-07:00
-modified: 2025-08-19T23:24:43-07:00
+modified: 2025-08-20T17:54:14-07:00
 ---
 
 # Toyota mileage
@@ -37,3 +37,5 @@ About 50 to highest mark? Indicator went back up after reaching it at 39.2
 377.9 but forgot to check probably just below cquarter
 
 Refill
+
+65k to highest mark
