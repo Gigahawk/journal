@@ -1,9 +1,9 @@
 ---
 created: 2024-11-20T02:36:02-08:00
-modified: 2024-11-20T02:36:29-08:00
+modified: 2025-09-09T18:08:04-07:00
 ---
 
-# Spin calibration
+# Spin calibration Z2
 
 # short distance
 
