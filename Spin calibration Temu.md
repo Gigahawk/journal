@@ -30,10 +30,13 @@ modified: 2025-09-09T18:13:03-07:00
 
 ## slow speed
 
+100 FHE
 
 
 ## medium speed
 
-
+100 FHE
 
 ## fast speed
+
+Maybe 75 FHE? Seems to catch

@@ -1,6 +1,6 @@
 ---
 created: 2025-06-26T14:36:34-07:00
-modified: 2025-09-07T14:32:39-07:00
+modified: 2025-09-10T14:32:00-07:00
 ---
 
 # Toyota mileage
@@ -61,3 +61,5 @@ About 60 to highest mark
 125 to 3/4 mark
 
 295 to half mark
+
+408 to quarter mark
