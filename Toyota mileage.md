@@ -1,6 +1,6 @@
 ---
 created: 2025-06-26T14:36:34-07:00
-modified: 2025-09-11T21:03:11-07:00
+modified: 2025-09-13T19:41:40-07:00
 ---
 
 # Toyota mileage
@@ -71,3 +71,7 @@ About 60 to highest mark
 Refill to just past quarter mark
 
 Refill again
+
+About 70 to highest mark
+
+157 to 3/4 mark
