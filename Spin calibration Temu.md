@@ -1,42 +1,50 @@
 ---
 created: 2025-09-09T18:08:23-07:00
-modified: 2025-09-09T18:13:03-07:00
+modified: 2025-09-20T19:46:49-07:00
 ---
 
-# Spin calibration Temu
+# Spin calibration Temu (House of billiards)
 
 # short distance
 
-## slow/med/fast speed
+## slow speed
+
+80% BHE 20% FHE
+
+## medium speed
 
 100% BHE
+
+## full speed
+
+-20% FHE 120% BHE
 
 # medium distance
 
 ## slow speed
 
-50 FHE 50 BHE
+100% BHE
 
 ## medium speed
 
-50 FHE 50 BHE
+100% BHE
 
 ## fast speed
 
-50 FHE 50 BHE
+-10% FHE 110% BHE
 
 
-# long distance (probably wrong)
+# long distance
 
 ## slow speed
 
-100 FHE
+90% FHE 10% BHE
 
 
 ## medium speed
 
-100 FHE
+30% BHE 70% FHE
 
 ## fast speed
 
-Maybe 75 FHE? Seems to catch
+100% BHE
