@@ -1,6 +1,6 @@
 ---
 created: 2025-06-26T14:36:34-07:00
-modified: 2025-09-23T21:55:20-07:00
+modified: 2025-10-01T18:47:36-07:00
 ---
 
 # Toyota mileage
@@ -81,5 +81,9 @@ Refill
 65 to highest mark
 
 130 to 3/4 mark
+
+Refill
+
+About 249 to half tank
 
 Refill
