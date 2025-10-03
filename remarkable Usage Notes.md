@@ -11,6 +11,11 @@ Ssh account is root, password is in settings > help > copyrights and licenses
 
 Disable auto sleep from settings to prevent the connection from dying
 
-# Updating
+## Tailscale
+
+https://tailscale.com/kb/1028/key-expiry
+
+
+## Updating
 
 Run `opkg update` then `opkg upgrade`
