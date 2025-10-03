@@ -1,9 +1,9 @@
 ---
 created: 2025-10-03T13:41:13-07:00
-modified: 2025-10-03T13:41:22-07:00
+modified: 2025-10-03T13:41:31-07:00
 ---
 
-# remarkable Usage Notes
+# reMarkable Usage Notes
 
 Three finger swipe up for app launcher
 
