@@ -1,6 +1,6 @@
 ---
 created: 2025-10-08T01:02:42-07:00
-modified: 2025-10-08T01:03:57-07:00
+modified: 2025-10-08T03:09:55-07:00
 type: Checklist
 ---
 
@@ -8,4 +8,5 @@ type: Checklist
 
 - [ ] Phone case devilcase
 - [ ] Old USB sticks maybe
-- [ ] Cue case? 
+- [ ] Cue case?
+- [ ] Battery bank 
