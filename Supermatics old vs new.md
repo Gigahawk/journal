@@ -1,6 +1,6 @@
 ---
 created: 2025-10-13T08:11:08-07:00
-modified: 2025-10-13T08:36:00-07:00
+modified: 2025-10-13T08:37:08-07:00
 ---
 
 # Supermatics old vs new
@@ -11,4 +11,4 @@ https://www.nidecker.com/products/ab-n004-a-lsr2-0-carb-ankle-bkle-2025 need to 
 
 Its possible to jam the mechanism too far, supposedly this behavior has been improved on 2026 but I can't find the comment that mentioned this on reddit anymore, nor can I find any explanation of what's actually changed in the mechanism.
 
-Pictures of the mechanism indicate that the new ratchet is beefier and has a feature to prevent overrotation. Should go to Pacific boarder and double check
+Pictures of the mechanism indicate that the new ratchet is beefier and has a feature to prevent overrotation. Should go to Pacific boarder and double check. But as far as I can tell the frame geometry is the same so it might still be cheaper to just try and source an updated mechanism?
