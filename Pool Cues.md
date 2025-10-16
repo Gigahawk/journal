@@ -1,6 +1,6 @@
 ---
 created: 2025-10-16T09:42:48-07:00
-modified: 2025-10-16T13:01:16-07:00
+modified: 2025-10-16T13:03:18-07:00
 ---
 
 # Pool Cues
@@ -38,3 +38,7 @@ Thread major dia appears to be 5/16in.
 Roughly 5.15mm per 2 threads (2.575mm per thread, roughly 3/32in?)
 
 Roughly 9.6mm long lead in, 6.45mm dia
+
+## Tip
+
+12.8mm dia, stock tip
