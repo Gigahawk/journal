@@ -1,6 +1,6 @@
 ---
 created: 2025-10-16T09:42:48-07:00
-modified: 2025-10-16T10:43:27-07:00
+modified: 2025-10-16T13:01:16-07:00
 ---
 
 # Pool Cues
@@ -17,6 +17,10 @@ Some random Temu thing
 Thread length roughly 12.3mm
 
 Roughly 12.2mm long lead in, 6.3mm dia
+
+## Tip
+
+13mm dia, stock weird rainbow thinf
 
 # Jump/Break
 
