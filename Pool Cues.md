@@ -1,6 +1,6 @@
 ---
 created: 2025-10-16T09:42:48-07:00
-modified: 2025-10-16T10:12:54-07:00
+modified: 2025-10-16T10:20:36-07:00
 ---
 
 # Pool Cues
@@ -10,6 +10,13 @@ modified: 2025-10-16T10:12:54-07:00
 Some random Temu thing
 
  https://share.temu.com/rQ5m4JiH9DA
+
+## Joint
+
+3/8 x 10
+Thread length roughly 12.3mm
+
+Roughly 12.2mm lead in, 6.3mm dia
 
 # Jump/Break
 
