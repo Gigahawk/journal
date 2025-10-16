@@ -1,6 +1,6 @@
 ---
 created: 2025-10-16T09:42:48-07:00
-modified: 2025-10-16T09:55:23-07:00
+modified: 2025-10-16T10:09:30-07:00
 ---
 
 # Pool Cues
@@ -21,4 +21,7 @@ https://thepoolshoppe.ca/shop/action-break-cue-black-break-jump-cue/
 
 Whatever an "Action Quick Release" is.
 
-Major dia appears to be 5/16in
+Starts with a 9.15mm long, 8mm dia shoulder (slightly larger than 5/16). 
+
+Thread major dia appears to be 5/16in.
+Roughly 5.15mm per 3 threads (1.7167mm per thread)
