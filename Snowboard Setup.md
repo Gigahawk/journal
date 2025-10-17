@@ -1,6 +1,6 @@
 ---
 created: 2025-10-17T00:36:04-07:00
-modified: 2025-10-17T00:45:32-07:00
+modified: 2025-10-17T00:46:42-07:00
 ---
 
 # Snowboard Setup
@@ -15,3 +15,8 @@ Bought used for 350 CAD
 Good length but too narrow cause its a womens board.
 Might have been ok if I had small bindings?
 Bought new for 250 CAD
+
+# Bindings
+
+Burton Step On Re:Flex 2021 (first gen).
+Highba
