@@ -1,14 +1,22 @@
 ---
 created: 2025-02-05T12:53:33-08:00
-modified: 2025-02-07T14:40:56-08:00
+modified: 2025-10-17T00:48:51-07:00
 ---
 
 # Snowboard setup
 
 # Board
-Rosignol Frenemy 147
 
-Burton aluminum stud stomp pad
+Arbor Satori 2025 151cm.
+Honestly slightly long and wide but it looks so sick and is so fun in powder.
+Bought used for 350 CAD
+Came with a transparent stomp pad in the middle I've been too lazy to replace
+
+[SELLING] Rossignol Frenemy 147cm.
+Good length but too narrow cause its a womens board.
+Might have been ok if I had small bindings?
+Bought new for 250 CAD
+Mounted Burton aluminum stud stomp pad. 
 
 # Bindings
 
