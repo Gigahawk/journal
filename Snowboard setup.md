@@ -1,6 +1,6 @@
 ---
 created: 2025-02-05T12:53:33-08:00
-modified: 2025-10-17T01:44:20-07:00
+modified: 2025-10-17T01:45:15-07:00
 ---
 
 # Snowboard setup
@@ -40,4 +40,5 @@ Heat shrink 3/8"-3/16", 12-4AWG
 
 Burton Photon Step On 2021 Men's 8.5
 
-Foam stuffed into front where ankle meets shin
+Foam stuffed into front where ankle meets shin.
+Honestly not the right size, I'm probably closer to a mens 8 or 7.5. If I don't buy boots this season might try taping foam to the bottom of the fake strap thing
