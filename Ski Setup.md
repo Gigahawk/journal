@@ -1,13 +1,13 @@
 ---
 created: 2025-10-17T00:55:26-07:00
-modified: 2025-10-18T13:48:30-07:00
+modified: 2025-10-18T13:49:08-07:00
 ---
 
 # Ski Setup
 
 # Skis
 
-Rossignol Pursuit 14x 152cm
+Rossignol Pursuit 14x 2013 152cm
 Bought used for 180 CAD from Sports Junkies.
 Heavy as shit. 
 
