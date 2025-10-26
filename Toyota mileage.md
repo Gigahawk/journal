@@ -1,6 +1,6 @@
 ---
 created: 2025-06-26T14:36:34-07:00
-modified: 2025-10-23T17:18:55-07:00
+modified: 2025-10-25T18:43:28-07:00
 ---
 
 # Toyota mileage
@@ -96,8 +96,12 @@ Refill
 
 About 260 to half tank
 
-Refill
+Refill ( supersave) 
 
 95 to 3/4 mark
 
-Refill
+Refill (back to petro)
+
+70 to full mark
+
+115 to 3/4 tank
