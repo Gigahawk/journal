@@ -1,6 +1,6 @@
 ---
 created: 2025-06-26T14:36:34-07:00
-modified: 2025-12-03T16:52:15-08:00
+modified: 2025-12-11T20:25:30-08:00
 ---
 
 # Toyota mileage
@@ -115,3 +115,7 @@ Tire change winter
 Refill
 
 240 to half mark
+
+refill
+
+About 60 to full mark
