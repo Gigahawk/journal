@@ -1,6 +1,6 @@
 ---
 created: 2025-06-26T14:36:34-07:00
-modified: 2025-12-16T22:50:41-08:00
+modified: 2025-12-23T22:30:56-08:00
 ---
 
 # Toyota mileage
@@ -121,3 +121,5 @@ refill
 About 60 to full mark
 
 Refill
+
+About 260 to half mark
