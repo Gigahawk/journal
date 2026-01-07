@@ -1,6 +1,6 @@
 ---
 created: 2025-02-05T12:53:33-08:00
-modified: 2026-01-07T13:19:57-08:00
+modified: 2026-01-07T13:22:38-08:00
 ---
 
 # Snowboard setup
@@ -22,8 +22,8 @@ Mounted Burton aluminum stud stomp pad.
 
 Step on re:flex binding 2021 (1st gen) Men's Medium
 
-Rear foot +6deg
-Front foot +18
+Rear foot +6deg, nominal position
+Front foot +18, - 1 position
 
 ## Mods
 
