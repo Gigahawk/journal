@@ -1,6 +1,6 @@
 ---
 created: 2025-02-05T12:53:33-08:00
-modified: 2026-01-07T14:20:10-08:00
+modified: 2026-01-07T14:24:38-08:00
 ---
 
 # Snowboard setup
@@ -21,6 +21,8 @@ Mounted Burton aluminum stud stomp pad.
 # Bindings
 
 Step on re:flex binding 2021 (1st gen) Men's Medium
+
+TODO: new smalldocs
 
 Rear foot +6deg, nominal position
 Front foot +18, - 1 position
@@ -47,3 +49,5 @@ Burton Photon Step On 2021 Men's 8.5
 
 Foam stuffed into front where ankle meets shin.
 Honestly not the right size, I'm probably closer to a mens 8 or 7.5. If I don't buy boots this season might try taping foam to the bottom of the fake strap thing
+
+TODO: document new DC boots
