@@ -1,6 +1,6 @@
 ---
 created: 2025-02-05T12:53:33-08:00
-modified: 2026-01-07T13:22:38-08:00
+modified: 2026-01-07T14:11:52-08:00
 ---
 
 # Snowboard setup
@@ -35,6 +35,8 @@ https://youtu.be/rSKdMLO0El4
 
 Size 20 hose clamp (3/4"-1 3/4", 19-44mm)
 There's about 1.5inch tail on the clamp could probably size down the clamp
+
+Size 16 clamp works ok too, easiest to install with binding off the board
 
 
 Heat shrink 3/8"-3/16", 12-4AWG
