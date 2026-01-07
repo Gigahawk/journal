@@ -1,6 +1,6 @@
 ---
 created: 2025-02-05T12:53:33-08:00
-modified: 2026-01-07T14:42:52-08:00
+modified: 2026-01-07T14:43:16-08:00
 ---
 
 # Snowboard setup
@@ -47,9 +47,9 @@ Heat shrink 3/8"-3/16" (10-5mm), 12-4AWG (size 3?)
 
 # Boots
 
-Burton Photon Step On 2021 Men's 8.5
+TODO: document new DC boots
+
+[OLD] Burton Photon Step On 2021 Men's 8.5
 
 Foam stuffed into front where ankle meets shin.
 Honestly not the right size, I'm probably closer to a mens 8 or 7.5. If I don't buy boots this season might try taping foam to the bottom of the fake strap thing
-
-TODO: document new DC boots
