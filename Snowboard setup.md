@@ -1,6 +1,6 @@
 ---
 created: 2025-02-05T12:53:33-08:00
-modified: 2026-01-07T14:19:34-08:00
+modified: 2026-01-07T14:20:10-08:00
 ---
 
 # Snowboard setup
@@ -39,7 +39,7 @@ There's about 1.5inch tail on the clamp could probably size down the clamp
 Size 16 clamp works ok too, easiest to install with binding off the board
 
 
-Heat shrink 3/8"-3/16", 12-4AWG (size 3?) 
+Heat shrink 3/8"-3/16" (10-5mm), 12-4AWG (size 3?) 
 
 # Boots
 
