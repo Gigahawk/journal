@@ -1,6 +1,6 @@
 ---
 created: 2025-02-05T12:53:33-08:00
-modified: 2026-01-07T14:34:10-08:00
+modified: 2026-01-07T14:42:52-08:00
 ---
 
 # Snowboard setup
@@ -20,9 +20,10 @@ Mounted Burton aluminum stud stomp pad.
 
 # Bindings
 
-Old: Step on re:flex binding 2021 (1st gen) Men's Medium
+Step on Genesis binding (2022?) (2nd gen) Mens small
 
-New: Step on Genesis binding (2022?) (2nd gen) Mens small
+[OLD] Step on re:flex binding 2021 (1st gen) Men's Medium
+
 
 Rear foot +6deg, nominal axial position, off centerline heelside
 Front foot +18deg, - 1 axial position, off centerline heelside
