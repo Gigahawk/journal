@@ -1,13 +1,13 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2026-01-07T16:15:11-08:00
+modified: 2026-01-07T16:18:38-08:00
 type: Checklist
 ---
 
 # Ski checklist
 
-- [ ] Boots
-- [ ] Skis/Board
+- [x] Boots
+- [x] Skis/Board
 - [ ] Socks
 - [ ] Ski pants
 - [ ] Underarmour
@@ -30,3 +30,4 @@ type: Checklist
 - [ ] Spare Boa kit
 - [ ] Pliers to escape dead Boa
 - [ ] Knee pads
+- [ ] SKI PASS
