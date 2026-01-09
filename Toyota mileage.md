@@ -1,6 +1,6 @@
 ---
 created: 2025-06-26T14:36:34-07:00
-modified: 2026-01-06T22:54:17-08:00
+modified: 2026-01-08T23:07:07-08:00
 ---
 
 # Toyota mileage
@@ -127,3 +127,7 @@ About 260 to half mark
 418 to light on
 
 Refill to half mark
+
+Refill
+
+110 to 3/4 mark
