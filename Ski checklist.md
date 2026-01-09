@@ -1,6 +1,6 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2026-01-09T15:40:02-08:00
+modified: 2026-01-09T15:40:48-08:00
 type: Checklist
 ---
 
@@ -24,8 +24,8 @@ type: Checklist
 - [x] Neck warmer
 - [x] Headphones
 - [x] Helmet/goggles
-- [ ] Towel 
-- [ ] Garbage bags
+- [x] Towel 
+- [x] Garbage bags
 - [ ] Battery bank
 - [ ] Spare Boa kit
 - [ ] Pliers to escape dead Boa
