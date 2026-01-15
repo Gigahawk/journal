@@ -1,26 +1,26 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2026-01-10T22:25:17-08:00
+modified: 2026-01-15T12:45:41-08:00
 type: Checklist
 ---
 
 # Ski checklist
 
 - [x] SKI PASS
-- [x] Boots
+- [ ] Boots
 - [x] Skis/Board
-- [x] Socks
-- [x] Ski pants
-- [x] Underarmour
-- [x] Inner jacket
-- [x] Outer jacket
+- [ ] Socks
+- [ ] Ski pants
+- [ ] Underarmour
+- [ ] Inner jacket
+- [ ] Outer jacket
 - [ ] Water bottle
-- [x] Beanie
-- [x] Wristguards
-- [x] Gloves
+- [ ] Beanie
+- [ ] Wristguards
+- [ ] Gloves
 - [ ] Poles
-- [x] Chubby Buttons
-- [x] Ski mask
+- [ ] Chubby Buttons
+- [ ] Ski mask
 - [x] Neck warmer
 - [x] Headphones
 - [x] Helmet/goggles
