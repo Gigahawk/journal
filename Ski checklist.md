@@ -1,12 +1,12 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2026-01-21T21:17:14-08:00
+modified: 2026-01-21T21:22:40-08:00
 type: Checklist
 ---
 
 # Ski checklist
 
-- [ ] SKI PASS
+- [x] SKI PASS
 - [ ] Boots
 - [ ] Skis/Board
 - [ ] Socks
@@ -19,11 +19,11 @@ type: Checklist
 - [ ] Wristguards
 - [ ] Gloves
 - [ ] Poles
-- [ ] Chubby Buttons
+- [x] Chubby Buttons
 - [ ] Ski mask
 - [ ] Neck warmer
 - [ ] Headphones
-- [ ] Helmet/goggles
+- [x] Helmet/goggles
 - [ ] Towel 
 - [ ] Garbage bags
 - [ ] Battery bank
