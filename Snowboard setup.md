@@ -1,6 +1,6 @@
 ---
 created: 2025-02-05T12:53:33-08:00
-modified: 2026-01-07T14:43:16-08:00
+modified: 2026-01-24T14:41:03-08:00
 ---
 
 # Snowboard setup
@@ -12,7 +12,7 @@ Bought used for 350 CAD
 Honestly slightly too long and wide but it looks so sick and is so fun in powder.
 Came with a transparent stomp pad in the middle I've been too lazy to replace
 
-[SELLING] Rossignol Frenemy 2020 147cm.
+[SOLD] Rossignol Frenemy 2020 147cm.
 Bought new for 250 CAD
 Good length but too narrow cause its a womens board.
 Might have been ok if I had small bindings?
