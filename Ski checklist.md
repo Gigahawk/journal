@@ -1,6 +1,6 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2026-01-22T13:12:13-08:00
+modified: 2026-01-28T12:13:38-08:00
 type: Checklist
 ---
 
@@ -17,7 +17,7 @@ type: Checklist
 - [ ] Water bottle
 - [x] Beanie
 - [x] Wristguards
-- [x] Gloves
+- [ ] Gloves
 - [ ] Poles
 - [x] Chubby Buttons
 - [x] Ski mask
