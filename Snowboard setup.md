@@ -1,6 +1,6 @@
 ---
 created: 2025-02-05T12:53:33-08:00
-modified: 2026-01-24T17:19:36-08:00
+modified: 2026-02-04T15:32:49-08:00
 ---
 
 # Snowboard setup
@@ -44,6 +44,7 @@ Size 16 clamp works ok too, easiest to install with binding off the board
 
 
 Heat shrink 3/8"-3/16" (10-5mm), 12-4AWG (size 3?) 
+8mm dia seems to work the best no need for shrinking
 
 # Boots
 
