@@ -7,9 +7,9 @@ type: Checklist
 # Ski checklist
 
 - [x] SKI PASS
-- [ ] Boots
-- [ ] Skis/Board
-- [ ] Socks
+- [x] Boots
+- [x] Skis/Board
+- [x] Socks
 - [x] Ski pants
 - [x] Underarmour
 - [x] Inner jacket
@@ -26,7 +26,7 @@ type: Checklist
 - [x] Helmet/goggles
 - [x] Towel 
 - [x] Garbage bags
-- [ ] Battery bank
+- [x] Battery bank
 - [ ] Spare Boa kit
 - [ ] Pliers to escape dead Boa
 - [x] Knee pads

@@ -1,6 +1,6 @@
 ---
 created: 2025-06-26T14:36:34-07:00
-modified: 2026-02-02T23:01:43-08:00
+modified: 2026-02-10T20:29:50-08:00
 ---
 
 # Toyota mileage
@@ -150,3 +150,5 @@ About 40 to full
 135 to 3/4
 
 About 260 to half?
+
+425 to 1/4? Lots of highway driving from whistler trip
