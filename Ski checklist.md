@@ -1,6 +1,6 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2026-02-12T14:30:15-08:00
+modified: 2026-02-12T14:30:17-08:00
 type: Checklist
 ---
 
@@ -31,4 +31,4 @@ type: Checklist
 - [ ] Pliers to escape dead Boa
 - [x] Knee pads
 - [x] Crash pants
-- [ ] Watch
+- [x] Watch
