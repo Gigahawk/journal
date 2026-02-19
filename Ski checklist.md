@@ -1,6 +1,6 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2026-02-18T16:32:22-08:00
+modified: 2026-02-18T16:34:03-08:00
 type: Checklist
 ---
 
@@ -32,4 +32,4 @@ type: Checklist
 - [x] Knee pads
 - [ ] Crash pants
 - [ ] Watch
-- [ ] Phone lanyard
+- [x] Phone lanyard
