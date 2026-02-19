@@ -1,34 +1,35 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2026-02-18T16:27:45-08:00
+modified: 2026-02-18T16:32:22-08:00
 type: Checklist
 ---
 
 # Ski checklist
 
-- [ ] SKI PASS
-- [ ] Boots
-- [ ] Skis/Board
-- [ ] Socks
-- [ ] Ski pants
+- [x] SKI PASS
+- [x] Boots
+- [x] Skis/Board
+- [x] Socks
+- [x] Ski pants
 - [ ] Underarmour
-- [ ] Inner jacket
-- [ ] Outer jacket
+- [x] Inner jacket
+- [x] Outer jacket
 - [ ] Water bottle
-- [ ] Beanie
-- [ ] Wristguards
-- [ ] Gloves
-- [ ] Poles
-- [ ] Chubby Buttons
+- [x] Beanie
+- [x] Wristguards
+- [x] Gloves
+- [x] Poles
+- [x] Chubby Buttons
 - [ ] Ski mask
 - [ ] Neck warmer
-- [ ] Headphones
-- [ ] Helmet/goggles
+- [x] Headphones
+- [x] Helmet/goggles
 - [ ] Towel 
 - [ ] Garbage bags
-- [ ] Battery bank
+- [x] Battery bank
 - [ ] Spare Boa kit
 - [ ] Pliers to escape dead Boa
-- [ ] Knee pads
+- [x] Knee pads
 - [ ] Crash pants
 - [ ] Watch
+- [ ] Phone lanyard
