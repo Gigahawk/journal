@@ -1,6 +1,6 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2026-02-18T16:34:03-08:00
+modified: 2026-02-19T16:06:10-08:00
 type: Checklist
 ---
 
@@ -11,7 +11,7 @@ type: Checklist
 - [x] Skis/Board
 - [x] Socks
 - [x] Ski pants
-- [ ] Underarmour
+- [x] Underarmour
 - [x] Inner jacket
 - [x] Outer jacket
 - [ ] Water bottle
@@ -20,16 +20,16 @@ type: Checklist
 - [x] Gloves
 - [x] Poles
 - [x] Chubby Buttons
-- [ ] Ski mask
-- [ ] Neck warmer
+- [x] Ski mask
+- [x] Neck warmer
 - [x] Headphones
 - [x] Helmet/goggles
-- [ ] Towel 
-- [ ] Garbage bags
+- [x] Towel 
+- [x] Garbage bags
 - [x] Battery bank
 - [ ] Spare Boa kit
 - [ ] Pliers to escape dead Boa
 - [x] Knee pads
-- [ ] Crash pants
+- [x] Crash pants
 - [ ] Watch
 - [x] Phone lanyard
