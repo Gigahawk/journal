@@ -1,6 +1,6 @@
 ---
 created: 2025-06-26T14:36:34-07:00
-modified: 2026-02-19T16:45:37-08:00
+modified: 2026-02-21T12:40:51-08:00
 ---
 
 # Toyota mileage
@@ -160,3 +160,7 @@ About 370 to 1/4
 Refill to slightly above half
 
 33 to half
+
+165 to 1/4
+
+Refill to slightly above half
