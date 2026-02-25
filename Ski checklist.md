@@ -1,6 +1,6 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2026-02-24T23:44:19-08:00
+modified: 2026-02-25T12:07:22-08:00
 type: Checklist
 ---
 
@@ -15,14 +15,14 @@ type: Checklist
 - [x] Inner jacket
 - [x] Outer jacket
 - [ ] Water bottle
-- [ ] Beanie
+- [x] Beanie
 - [x] Wristguards
 - [x] Gloves
 - [ ] Poles
 - [x] Chubby Buttons
 - [x] Ski mask
 - [x] Neck warmer
-- [ ] Headphones
+- [x] Headphones
 - [x] Helmet/goggles
 - [x] Towel 
 - [x] Garbage bags
