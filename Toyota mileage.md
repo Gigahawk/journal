@@ -1,6 +1,6 @@
 ---
 created: 2025-06-26T14:36:34-07:00
-modified: 2026-03-11T08:39:28-07:00
+modified: 2026-03-11T23:04:41-07:00
 ---
 
 # Toyota mileage
@@ -172,3 +172,5 @@ Refill
 375sh to 1/4
 
 Refill to 1 tick below 1/2
+
+Refill to just past 1/2
