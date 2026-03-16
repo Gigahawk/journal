@@ -1,6 +1,6 @@
 ---
 created: 2025-02-05T12:53:33-08:00
-modified: 2026-03-14T15:54:12-07:00
+modified: 2026-03-15T22:07:07-07:00
 ---
 
 # Snowboard setup
@@ -29,7 +29,7 @@ Rear foot +6deg, nominal axial position, off centerline heelside
 Front foot +18deg, - 1 axial position, off centerline heelside
 
 TRYING: +3Deg on both legs, mounting at centerline.
-Works good (+21 front, +12 back
+Works good (+21 front, +12 back) 
 
 
 ## Mods
