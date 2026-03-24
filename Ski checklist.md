@@ -1,6 +1,6 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2026-03-24T14:29:00-07:00
+modified: 2026-03-24T14:44:38-07:00
 type: Checklist
 ---
 
@@ -17,21 +17,21 @@ type: Checklist
 - [x] Water bottle
 - [x] Beanie
 - [x] Wristguards
-- [ ] Gloves
+- [x] Gloves
 - [ ] Poles
 - [x] Chubby Buttons
 - [x] Ski mask
-- [ ] Neck warmer
+- [x] Neck warmer
 - [x] Headphones
-- [ ] Helmet/goggles
-- [ ] Towel 
-- [ ] Garbage bags
-- [ ] Battery bank
+- [x] Helmet/goggles
+- [x] Towel 
+- [x] Garbage bags
+- [x] Battery bank
+- [x] Knee pads
+- [x] Phone lanyard
+- [x] Crash pants (medium) 
+- [x] Socks to pad out boa in boots
 - [ ] Spare Boa kit
 - [ ] Pliers to escape dead Boa
-- [ ] Knee pads
-- [ ] Crash pants (medium) 
 - [ ] Watch
-- [ ] Phone lanyard
 - [ ] Headlamp
-- [ ] Socks to pad out boa in boots
