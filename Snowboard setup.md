@@ -1,6 +1,6 @@
 ---
 created: 2025-02-05T12:53:33-08:00
-modified: 2026-03-15T22:07:07-07:00
+modified: 2026-04-04T13:02:57-07:00
 ---
 
 # Snowboard setup
@@ -28,8 +28,10 @@ Step on Genesis binding (2022?) (2nd gen) Mens small
 Rear foot +6deg, nominal axial position, off centerline heelside
 Front foot +18deg, - 1 axial position, off centerline heelside
 
-TRYING: +3Deg on both legs, mounting at centerline.
+CURRENT: +3Deg on both legs, mounting at centerline.
 Works good (+21 front, +12 back) 
+
+PARK: -3 Dec rear, +9 front? 
 
 
 ## Mods
