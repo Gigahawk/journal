@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T22:34:52-07:00
-modified: 2026-04-05T23:21:09-07:00
+modified: 2026-04-05T23:25:04-07:00
 ---
 
 # Review
@@ -24,6 +24,7 @@ My partner got a pair of very similar tinted... sunglasses? They didn't seem to 
 Neither of the staff wore any eye protection.
 
 My piece split in half due to uneven cooling and exploded when the instructor tried to reattach it. 
+Luckily the pieces didn't travel very far and mostly just fell on the work table. 
 
 My partners torch sprung a small leak in the which caught fire near the end of the session, kinda scary. The husband almost made it worse by closing a valve downstream of the leak before he realized he could shut off the tank.
 
@@ -31,6 +32,8 @@ My partners torch sprung a small leak in the which caught fire near the end of t
 
 They only have two torches, one each for me and my partner. 
 The teacher didn't have his own torch to demo with and would just show us what to do with the pieces we were working on which was less than ideal. 
+
+They had lots of samples of glass flowers that were really nice, but also a bunch of other really impressive glass scultpures that was clearly not his work. 
 
 # Format/Results
 
