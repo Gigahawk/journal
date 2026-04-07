@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T22:34:52-07:00
-modified: 2026-04-05T23:25:04-07:00
+modified: 2026-04-06T19:55:16-07:00
 ---
 
 # Review
@@ -19,7 +19,7 @@ The husband spoke enough English but was kinda mumbly and unclear, didn't seem t
 # Safety
 
 I got a pair of super cheap looking UV laser glasses. 
-My partner got a pair of very similar tinted... sunglasses? They didn't seem to have any markings on them indicating they were safety eyewear of any kind. I'm no expert but it certainly wasn't confidence inspiring. Eyes felt a little tired from staring at white hot glass for an hour but I feel ok now. 
+My partner got a pair of very similar tinted... sunglasses? They didn't seem to have any markings on them indicating they were safety eyewear of any kind. Its possible they were fine but it certainly wasn't confidence inspiring. Eyes felt a little tired from staring at white hot glass for an hour but I feel ok now. 
 
 Neither of the staff wore any eye protection.
 
