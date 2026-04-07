@@ -1,12 +1,13 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2026-04-07T09:27:03-07:00
+modified: 2026-04-07T14:11:40-07:00
 type: Checklist
 ---
 
 # Ski checklist
 
 - [x] SKI PASS
+- [ ] Sunscreen
 - [ ] Boots
 - [ ] Skis/Board
 - [x] Socks
