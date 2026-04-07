@@ -1,6 +1,6 @@
 ---
 created: 2023-02-01T18:53:15-08:00
-modified: 2026-03-31T13:52:32-07:00
+modified: 2026-04-07T09:27:03-07:00
 type: Checklist
 ---
 
@@ -30,8 +30,8 @@ type: Checklist
 - [x] Knee pads
 - [x] Phone lanyard
 - [x] Crash pants (medium) 
-- [x] Socks to pad out boa in boots
+- [ ] Socks to pad out boa in boots
 - [ ] Spare Boa kit
 - [ ] Pliers to escape dead Boa
-- [ ] Watch
+- [x] Watch
 - [ ] Headlamp
