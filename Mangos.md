@@ -1,6 +1,6 @@
 ---
 created: 2023-04-27T23:59:37-07:00
-modified: 2026-02-01T22:52:38-08:00
+modified: 2026-04-26T19:40:50-07:00
 ---
 
 # Mangos
@@ -17,3 +17,5 @@ R2E2 - Good texture, but a little mild
 Tommy atkins - supposedly tart with sweet notes and doesn't seem well liked
 
 Keitt - supposedly good
+
+Apple mangos? - not sure if this is a real variety, but they're at hannam. Saw on April 26 and they seemed kinda sad, like well after season over
