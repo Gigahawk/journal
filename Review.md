@@ -1,6 +1,6 @@
 ---
 created: 2026-04-05T22:34:52-07:00
-modified: 2026-04-06T19:55:16-07:00
+modified: 2026-04-29T18:09:12-07:00
 ---
 
 # Review
@@ -12,7 +12,7 @@ TLDR: probably don't bother coming. Might be worth it if you speak mandarin and 
 # Staff
 
 The place is run by a husband and wife couple.
-The husband is the main teacher/lampworker and the wife is kinda just... there for some reason. She didn't seem to have any lampworking experience and was just there to occasionally translate and make a bunch of unnecessary small talk.
+The husband is the main teacher/lampworker and the wife is kinda just... there for some reason. She didn't seem to have any lampworking experience and was just there to occasionally translate and make a bunch of annoying and unnecessary small talk.
 
 The husband spoke enough English but was kinda mumbly and unclear, didn't seem to have the structure of the class thought out.
 
@@ -46,6 +46,6 @@ In hindsight I don't know why they:
 - didn't attempt to make a sample piece before the class
 - didn't just say "no that's not possible please pick something else" 
 
-He had a reference image up of a Totoro made from glass that I unfortunately forgot to take a picture of but it was painfully clear he had no idea how it was made and was just winging it. 
+He had a reference image up of a Totoro made from glass but it was painfully clear he had no idea how it was made and was just winging it. 
 
 The results speak for themselves. Was some of this due to my own lack of skill? Maybe, but honestly barely any of my own work actually ended up on the final piece. I pulled and attached one of the ears, the other limbs I pulled were too large so the pulled and attached them himself. I also stuck on the eyes but thats about it.
