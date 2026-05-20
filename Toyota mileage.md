@@ -1,6 +1,6 @@
 ---
 created: 2025-06-26T14:36:34-07:00
-modified: 2026-05-07T18:26:12-07:00
+modified: 2026-05-19T21:24:59-07:00
 ---
 
 # Toyota mileage
@@ -198,3 +198,9 @@ About 65 to full
 Refill
 
 About 40 to full? Nozzle seemed to trigger early
+
+230 to half
+
+Refill
+
+About 130 to 3/4
