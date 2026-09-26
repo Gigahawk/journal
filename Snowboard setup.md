@@ -1,6 +1,6 @@
 ---
 created: 2025-02-05T12:53:33-08:00
-modified: 2026-09-25T18:31:36-07:00
+modified: 2026-09-25T18:39:18-07:00
 ---
 
 # Snowboard setup
@@ -65,6 +65,7 @@ I think my left foot is larger than my right by a half to quarter size?
 
 Vans hi standard og size 8 is alright, pro is maybe a hair more snug? Innavado size 8.5 is more comfy with extra heel hold from secondary  boa. Realistically either size 8 or 8.5 is probably fine for magic boots. Probably get a size 8 assuming liner will pack out a bit
 
+Actually going back to the 8 OG they feel on  the tight side? Hopefully they pack out. Really need to double check what I'm riding with DC rn
 
 # Socks
 
