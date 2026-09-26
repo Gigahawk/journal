@@ -1,6 +1,6 @@
 ---
 created: 2025-02-05T12:53:33-08:00
-modified: 2026-04-04T13:02:57-07:00
+modified: 2026-09-25T18:31:36-07:00
 ---
 
 # Snowboard setup
@@ -59,6 +59,12 @@ TODO: document new DC boots
 
 Foam stuffed into front where ankle meets shin.
 Honestly not the right size, I'm probably closer to a mens 8 or 7.5. If I don't buy boots this season might try taping foam to the bottom of the fake strap thing
+
+
+I think my left foot is larger than my right by a half to quarter size?
+
+Vans hi standard og size 8 is alright, pro is maybe a hair more snug? Innavado size 8.5 is more comfy with extra heel hold from secondary  boa. Realistically either size 8 or 8.5 is probably fine for magic boots. Probably get a size 8 assuming liner will pack out a bit
+
 
 # Socks
 
