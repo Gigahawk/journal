@@ -1,6 +1,6 @@
 ---
 created: 2023-04-27T23:59:37-07:00
-modified: 2026-10-11T23:44:05-07:00
+modified: 2026-10-14T02:48:07-07:00
 ---
 
 # Mangos
@@ -15,7 +15,7 @@ It is possible the tree ripened ones are much better
 R2E2 - Good texture, but a little mild
 
 Tommy atkins - supposedly tart with sweet notes and doesn't seem well liked
-Just ok, kinda fibrous
+Just ok, kinda fibrous, not that flavorful, neither sweet nor tart just watery
 
 
 
